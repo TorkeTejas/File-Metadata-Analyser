@@ -1,0 +1,6 @@
+hello
+how are you?
+File metadata extractor
+
+make
+./bin/file_metadata_analyzer <file_path>

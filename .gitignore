@@ -1,0 +1,22 @@
+# Compiled Object files
+*.o
+*.o.*
+
+# Compiled Dynamic Libraries
+*.so
+*.so.*
+
+# Executables
+/bin/
+
+# Build directory
+/build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+/dependency_directory_name/
+
+# Any other files or directories you want to ignore
